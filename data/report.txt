@@ -1,0 +1,7 @@
+Laundry Service Report
+Customers: 2
+Orders: 2
+PENDING orders: 0
+READY orders: 1
+COLLECTED orders: 1
+Collected sales: 1000 rupees
